@@ -1,0 +1,19 @@
+﻿<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>ClusterFig.RandomGenerators</id>
+    <version>1.0</version>
+    <authors>Stefan Szakal</authors>
+    <owners>Cluster Fig Software</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Random Number Generators</description>
+    <releaseNotes></releaseNotes>
+    <copyright>Copyright 2018</copyright>
+    <tags></tags>
+    <dependencies>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src=".\bin\$configuration$\netstandard2.0\ClusterFig.RandomGenerators.dll" target="lib\netstandard2.0\"/>
+  </files>
+</package>
