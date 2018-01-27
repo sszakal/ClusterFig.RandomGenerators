@@ -3,5 +3,12 @@
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
     <ReleaseVersion>1.0</ReleaseVersion>
+    <PackOnBuild>true</PackOnBuild>
+    <Description>Random Number Generators, Random String Generators</Description>
+    <PackageId>ClusterFig.RandomGenerators</PackageId>
+    <Owners>Cluster Fig Software</Owners>
   </PropertyGroup>
+  <ItemGroup>
+    <PackageReference Include="NuGet.Build.Packaging" Version="0.2.0" />
+  </ItemGroup>
 </Project>
